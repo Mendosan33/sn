@@ -1,4 +1,4 @@
-def hailstone(answer)
+def hailstone(answer):
     if answer == 1:
         return 0
     step = 0
